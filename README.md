@@ -12,4 +12,7 @@
 
 # Get real-time weather updates, track conditions, and set custom alerts. Simple and easy to use . using HTML CSS JS 
 
+# OUTPUT OF THE TASK
+
+![bg](https://github.com/user-attachments/assets/9c345e3f-e449-4816-ba48-4d6ef8012478)
 
